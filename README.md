@@ -1,6 +1,6 @@
 Introduction
 
-Welcome to Hero's Adventure, a 2D game developed from scratch using C#! In this game, the player controls a hero character who must navigate through a challenging environment, avoiding obstacles to reach the end and collect coins to win. The gameplay mechanics are inspired by classic platformer games like Mario. The game relies on images for character movement and interactions, and various events occur when images collide, such as the game stopping when the hero image touches an enemy image. Let's dive into the key features and details of Hero's Adventure!
+Welcome to Hero's Adventure, a 2D game developed from scratch using C#!! In this game, the player controls a hero character who must navigate through a challenging environment, avoiding obstacles to reach the end and collect coins to win. The gameplay mechanics are inspired by classic platformer games like Mario. The game relies on images for character movement and interactions, and various events occur when images collide, such as the game stopping when the hero image touches an enemy image. Let's dive into the key features and details of Hero's Adventure!
 Features
 
     Character Control: The player controls a hero character using keyboard inputs to move left, right, and jump.
