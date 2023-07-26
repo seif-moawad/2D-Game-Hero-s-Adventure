@@ -24,12 +24,14 @@ namespace The_Game
     {
         public int XD, YD;
         public Bitmap im;
+        public int vi;
         public int XS, YS;
     }
     public class Soldier
     {
         public int X, Y;
         public int iCurrFrame;
+        public int rt;
         public List<Bitmap> imgS = new List<Bitmap>();
     }
     public class Ground
